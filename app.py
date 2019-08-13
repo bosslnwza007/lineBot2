@@ -28,7 +28,7 @@ def callback():
     elif (userText == 'น่ารัก') :
         sendText(user,'อยู่เเล้ว')
     else :
-        sendText(user,'พูดใหม่อีกทีผมไม่รู้เรื่อง')
+        sendText(user,'????')
     return '',200
 
 def sendText(user, text):
